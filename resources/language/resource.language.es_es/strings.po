@@ -1,0 +1,706 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-03-17 18:00+0100\n"
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "Filtrar log por addon"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "Activar limpieza de datos sensibles"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "Mostrar entradas más recientes primero"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "Log filtrado ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "Log filtrado (entradas recientes)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "Visor del Log"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "Log de Kodi (completo)"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "Solo Errores y Warnings"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "Log Interno ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "Buscar en el Log"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "Exportar Log a archivo"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "Información del Log"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "Borrar Log Interno"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "Log anterior de Kodi"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "Activar/desactivar debug"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "Estadísticas del Log"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "Comparar log actual vs anterior"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "Información del sistema"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "Copiar ruta del log"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "Ver log de addon"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "Borrar logs de Kodi"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "No se encontró el archivo de log de Kodi."
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "No se encontraron errores recientes en el log."
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "¿Cuántas líneas?"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50 líneas"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100 líneas"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200 líneas"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "Buscar en el log de Kodi"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "No se encontró '{0}' en el log."
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "{0} resultados para '{1}'"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "Modo de vista"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "Solo {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "Solo errores"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "No hay entradas que mostrar."
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "Detalle del Log"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "No se pudo decodificar la entrada."
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "No existe el archivo de log interno."
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "¿Cuántas líneas ver?"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "Log Interno"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "Log de Kodi"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "Tamaño: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "Tamaño: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "Líneas: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "Ruta: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "No encontrado"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "Log Interno de {0}"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "No existe"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "Información de Logs"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "Solo entradas de {0}"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "Log completo"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "Solo errores y warnings"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "¿Qué exportar?"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "No hay entradas que exportar."
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "Guardar log exportado"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "Log exportado por {0} -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "Tipo: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "Líneas: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "Exportado"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "Log guardado en:\n{0}\n\n{1} líneas exportadas."
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "No se pudo exportar:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "¿Eliminar el log interno?\n\nTamaño: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "Log interno eliminado"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "No se encontró el log anterior (kodi.old.log)."
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "Log anterior de Kodi"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "El log de debug está ACTIVADO.\nKodi registrará más detalles."
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "El log de debug está DESACTIVADO."
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "Debug: ON"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "Debug: OFF"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "Estadísticas del Log"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "Líneas totales: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "Errores: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "Warnings: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "Debug: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "Info: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "Addons más mencionados"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "Se necesitan ambos logs para comparar."
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "Comparación de Logs"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "Errores nuevos (no están en el log anterior)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "No se encontraron errores nuevos."
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "Información del Sistema"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "Ruta copiada al portapapeles"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "No se pudo copiar la ruta."
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "Selecciona addon para filtrar"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "Filtro configurado: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "¿Borrar archivos de log de Kodi?"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "Logs eliminados"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "No se pudo eliminar:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "Muestra las entradas recientes del log de Kodi"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " que mencionan {0}."
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "Tokens y datos sensibles se censuran automáticamente."
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "Muestra cada línea del log como un elemento visual.\nCodificado por colores según severidad:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "Muestra el log completo de Kodi."
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "Filtra el log para mostrar solo líneas de error, warning, exception y traceback."
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "Muestra el contenido del log interno del addon."
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "Escribe un texto para buscar en todo el log de Kodi.\nMuestra todas las líneas que coinciden."
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "Guarda el log filtrado, completo o de errores en un archivo TXT.\nÚtil para compartir o enviar a soporte."
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "Muestra el tamaño, número de líneas y ruta del log de Kodi."
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "Elimina el archivo de log interno del addon."
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "Ver el log anterior de Kodi (kodi.old.log) de la sesión pasada."
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "Activar o desactivar el log de debug de Kodi."
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "Conteo de errores, warnings y menciones de addons."
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "Compara errores entre el log actual y el anterior."
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "Versión de Kodi, plataforma, resolución de pantalla y versión de Python."
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "Copia la ruta del archivo kodi.log al portapapeles."
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "Selecciona un addon instalado y muestra inmediatamente sus entradas en el log."
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "Borra los archivos kodi.log y/o kodi.old.log."
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "Hardware"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "Instalados: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "Error"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "El log de Kodi es muy grande ({0:.1f} MB).\nEsto puede ralentizar Kodi. Considera borrarlo."
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "Buscar con regex en el Log"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "Introduce patrón regex"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "Patrón regex inválido:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "Busca con expresiones regulares en el log de Kodi."
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "Exportar Log a JSON"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "Guardar log JSON"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON exportado"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON guardado en:\n{0}\n\n{1} entradas exportadas."
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "Exporta el log en formato JSON estructurado con severidad y timestamp."
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "Log de Eventos de Kodi"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "Ver eventos recientes de Kodi (notificaciones, errores, warnings)."
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "No hay eventos que mostrar."
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "API de LoioLog"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "Comandos RunScript disponibles para otros addons."
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "Subir log a paste site"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "Subiendo log..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "Log subido correctamente!\n\nURL:\n{0}\n\nLa URL se ha copiado al portapapeles."
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "Error al subir:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "Sube el log de Kodi a un paste site y obtén una URL para compartir."
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "¿Qué subir?"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "Log actual (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "Log anterior (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "Log Subido"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "Visor de log a pantalla completa"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "Ver el log en una ventana a pantalla completa con scroll."
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "Rutas de Kodi"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "Muestra las rutas de directorios de Kodi y copia al portapapeles."
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "Ver log"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "Buscar"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "Análisis"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "Exportar"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "Herramientas"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "Zona peligrosa"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "Ver log en red"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "Abre esta URL en tu móvil o cualquier dispositivo de la misma red:\n\n{0}\n\nLa URL se ha copiado al portapapeles.\nCierra este diálogo para detener el servidor."
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "Inicia un servidor web local para ver el log de Kodi desde tu móvil u otro dispositivo de la misma red."
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "El puerto {0} ya está en uso. Inténtalo más tarde."
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "Orden: antiguas primero"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "Orden: recientes primero"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "Alterna entre mostrar primero las entradas más recientes o más antiguas."
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "Problemas conocidos detectados"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "Base de datos bloqueada: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "Tiempos de espera de conexión: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "Dependencias faltantes: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "Fallos de reproducción: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "Mostrar código QR"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "Escanéalo con el móvil para abrir el log"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "Pulsa Atrás para cerrar"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "No se pudo generar el código QR: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "Cerrar"
+
+# --- Operation feedback ---
+msgctxt "#32159"
+msgid "Could not change the debug setting."
+msgstr "No se pudo cambiar el ajuste de depuración."
+
+msgctxt "#32194"
+msgid "Kodi is using kodi.log; close Kodi to delete it. It becomes kodi.old.log when Kodi restarts."
+msgstr "Kodi está usando kodi.log; cierra Kodi para borrarlo. Al reiniciar pasa a kodi.old.log."
+
+msgctxt "#32331"
+msgid "Could not generate the QR code."
+msgstr "No se pudo generar el código QR."

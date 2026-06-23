@@ -1,0 +1,694 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-06-12 20:50+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Urdu\n"
+"Language: ur_PK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "ایڈآن کے مطابق لاگ فلٹر کریں"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "حساس ڈیٹا کی صفائی فعال کریں"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "نئے اندراجات پہلے دکھائیں"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "فلٹر شدہ لاگ ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "فلٹر شدہ لاگ (حالیہ اندراجات)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "لاگ ویور"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "مکمل کوڈی لاگ"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "صرف غلطیاں اور انتباہات"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "اندرونی لاگ ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "لاگ میں تلاش کریں"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "لاگ فائل میں برآمد کریں"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "لاگ کی معلومات"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "اندرونی لاگ حذف کریں"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "پرانا کوڈی لاگ"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "ڈیبگ لاگنگ کو تبدیل کریں"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "لاگ کے اعداد و شمار"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "موجوہ لاگ اور پرانے لاگ کا موازنہ کریں"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "سسٹم کی معلومات"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "لاگ کا راستہ کاپی کریں"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "ایڈآن لاگ دیکھیں"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "کوڈی لاگ حذف کریں"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "کوڈی لاگ فائل نہیں ملی۔"
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "لاگ میں کوئی حالیہ غلطی نہیں ملی۔"
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "کتنی سطریں؟"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50 سطریں"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100 سطریں"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200 سطریں"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "کوڈی لاگ میں تلاش کریں"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "لاگ میں '{0}' نہیں ملا۔"
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "'{1}' کے لیے {0} نتائج"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "دیکھنے کا انداز"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "صرف {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "صرف غلطیاں"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "دکھانے کے لیے کوئی اندراج نہیں ہے۔"
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "لاگ کی تفصیل"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "اندراج کو ڈی کوڈ نہیں کیا جا سکا۔"
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "اندرونی لاگ فائل موجود نہیں ہے۔"
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "دیکھنے کے لیے کتنی سطریں؟"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "اندرونی لاگ"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "کوڈی لاگ"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "سائز: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "سائز: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "سطریں: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "راستہ: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "نہیں ملا"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "{0} کا اندرونی لاگ"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "موجود نہیں ہے"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "لاگ کی معلومات"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "صرف {0} کے اندراجات"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "مکمل لاگ"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "صرف غلطیاں اور انتباہات"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "کیا برآمد کرنا ہے؟"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "برآمد کرنے کے لیے کوئی اندراج نہیں ہے۔"
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "برآمد شدہ لاگ محفوظ کریں"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "لاگ {0} کے ذریعہ برآمد کیا گیا -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "قسم: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "سطریں: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "برآمد شدہ"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "لاگ یہاں محفوظ کیا گیا:\n{0}\n\n{1} سطریں برآمد کی گئیں۔"
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "برآمد نہیں کیا جا سکا:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "اندرونی لاگ حذف کریں؟\n\nسائز: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "اندرونی لاگ حذف کر دیا گیا"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "پرانی کوڈی لاگ فائل نہیں ملی (kodi.old.log)۔"
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "پرانا کوڈی لاگ"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "ڈیبگ لاگنگ اب فعال ہو گئی ہے۔\nکوڈی مزید تفصیلات ریکارڈ کرے گا۔"
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "ڈیبگ لاگنگ اب غیر فعال ہو گئی ہے۔"
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "ڈیبگ: آن"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "ڈیبگ: آف"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "لاگ کے اعداد و شمار"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "کل سطریں: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "غلطیاں: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "انتباہات: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "ڈیبگ: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "معلومات: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "سب سے زیادہ ذکر کردہ ایڈآنز"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "موازنے کے لیے دونوں لاگز کی ضرورت ہے۔"
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "لاگز کا موازنہ"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "نئی غلطیاں (پرانے لاگ میں نہیں ہیں)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "کوئی نئی غلطی نہیں ملی۔"
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "سسٹم کی معلومات"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "راستہ کلپ بورڈ پر کاپی ہو گیا ہے"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "راستہ کاپی نہیں کیا جا سکا۔"
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "فلٹر کرنے کے لیے ایڈآن منتخب کریں"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "فلٹر اس پر سیٹ ہے: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "کیا کوڈی لاگ فائلیں حذف کریں؟"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "لاگز حذف کر دیے گئے"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "حذف نہیں کیا جا سکا:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "حالیہ کوڈی لاگ اندراجات دکھاتا ہے"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " {0} کا ذکر کرتے ہوئے"
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "حساس ٹوکنز اور ڈیٹا خود بخود ہٹا دیا جاتا ہے۔"
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "ہر لاگ سطر کو ایک بصری آئٹم کے طور پر دکھاتا ہے۔\nشدت کے لحاظ سے رنگین کوڈ شدہ:\n\n[COLOR red]X غلطی[/COLOR]\n[COLOR yellow]! انتباہ[/COLOR]\n[COLOR white]- معلومات[/COLOR]\n[COLOR grey]- ڈیبگ[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "مکمل کوڈی لاگ دکھاتا ہے۔"
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "لاگ کو غلطی، انتباہ، استثناء اور ٹریس بیک سطروں کے لیے فلٹر کرتا ہے۔"
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "اندرونی ایڈآن لاگ کے مندرجات دکھاتا ہے۔"
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "مکمل کوڈی لاگ میں تلاش کرنے کے لیے متن ٹائپ کریں۔\nتمام مماثل سطریں دکھاتا ہے۔"
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "فلٹر شدہ، مکمل یا صرف غلطی والا لاگ TXT فائل میں محفوظ کریں۔\nشراکت داری یا سپورٹ کو بھیجنے کے لیے مفید ہے۔"
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "کوڈی لاگ کا فائل سائز، سطروں کی تعداد اور راستہ دکھاتا ہے۔"
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "اندرونی ایڈآن لاگ فائل کو حذف کرتا ہے۔"
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "پچھلے سیشن سے پرانا کوڈی لاگ (kodi.old.log) دیکھیں۔"
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "کوڈی ڈیبگ لاگنگ کو فعال یا غیر فعال کریں۔"
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "غلطی، انتباہ اور ایڈآن کے ذکر کی تعداد۔"
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "موجودہ لاگ اور پرانے لاگ کے درمیان غلطیوں کا موازنہ کریں۔"
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "کوڈی ورژن، پلیٹ فارم، اسکرین ریزولوشن اور ازگر (Python) ورژن۔"
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "kodi.log فائل کا راستہ کلپ بورڈ پر کاپی کریں۔"
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "انسٹال شدہ ایڈآن منتخب کریں اور فوری طور پر اس کے لاگ اندراجات دیکھیں۔"
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "kodi.log اور/یا kodi.old.log فائلیں حذف کریں۔"
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "ہارڈ ویئر"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "انسٹال شدہ: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "غلطی"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "کوڈی لاگ بہت بڑا ہے ({0:.1f} MB)۔\nیہ کوڈی کو سست کر سکتا ہے۔ اسے حذف کرنے پر غور کریں۔"
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "لاگ میں ریجیکس تلاش"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "ریجیکس پیٹرن درج کریں"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "غیر درست ریجیکس پیٹرن:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "کوڈی لاگ میں ریگولر ایکسپریشنز کے ساتھ تلاش کریں۔"
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "لاگ کو JSON میں برآمد کریں"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "JSON لاگ محفوظ کریں"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON برآمد کر دیا گیا"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON یہاں محفوظ کیا گیا:\n{0}\n\n{1} اندراجات برآمد کی گئیں۔"
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "شدت اور ٹائم اسٹیمپ کے ساتھ منظم JSON فارمیٹ میں لاگ برآمد کریں۔"
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "کوڈی ایونٹ لاگ"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "حالیہ کوڈی واقعات (نوٹیفیکیشنز، غلطیاں، انتباہات) دیکھیں۔"
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "دکھانے کے لیے کوئی واقعہ نہیں ہے۔"
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "LoioLog API"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "دیگر ایڈآنز کے لیے دستیاب RunScript کمانڈز۔"
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "لاگ کو پیسٹ سائٹ پر اپ لوڈ کریں"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "لاگ اپ لوڈ ہو رہا ہے..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "لاگ کامیابی سے اپ لوڈ ہو گیا ہے!\n\nURL:\n{0}\n\nURL کلپ بورڈ پر کاپی ہو گیا ہے۔"
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "اپ لوڈ ناکام رہا:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "کوڈی لاگ کو پیسٹ سائٹ پر اپ لوڈ کریں اور ایک قابل اشتراک URL حاصل کریں۔"
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "کیا اپ لوڈ کرنا ہے؟"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "موجودہ لاگ (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "پرانا لاگ (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "لاگ اپ لوڈ کر دیا گیا"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "فل سکرین لاگ ویور"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "سکرول کے ساتھ فل سکرین ونڈو میں لاگ دیکھیں۔"
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "کوڈی کے راستے"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "کوڈی ڈائریکٹری کے راستے دکھائیں اور کلپ بورڈ پر کاپی کریں۔"
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "لاگ دیکھیں"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "تلاش کریں"
+
+# --- Reverse order toggle ---
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "تجزیہ"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "برآمد کریں"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "ٹولز"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "خطرناک زون"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "نیٹ ورک پر لاگ دیکھیں"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "اپنے فون یا اسی نیٹ ورک پر موجود کسی بھی ڈیوائس پر یہ URL کھولیں:\n\n{0}\n\nURL کلپ بورڈ پر کاپی ہو گیا ہے۔\nسرور کو روکنے کے لیے اس ڈائیلاگ کو بند کریں۔"
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "اپنے فون یا اسی نیٹ ورک پر موجود دوسرے ڈیوائس سے کوڈی لاگ دیکھنے کے لیے مقامی ویب سرور شروع کریں۔"
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "پورٹ {0} پہلے ہی استعمال میں ہے۔ بعد میں دوبارہ کوشش کریں۔"
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "ترتیب: پہلے سب سے پرانا"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "ترتیب: پہلے سب سے نیا"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "سب سے نئے یا سب سے پرانے لاگ اندراجات پہلے دکھانے کے درمیان سوئچ کریں۔"
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "معلوم مسائل کا پتہ چلا"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "ڈیٹا بیس لاک ہے: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "کنکشن ٹائم آؤٹ: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "مفقود انحصار جات: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "پلے بیک کی ناکامیاں: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "QR کوڈ دکھائیں"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "لاگ کھولنے کے لیے اپنے فون سے اسکین کریں"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "بند کرنے کے لیے بیک دبائیں"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "QR کوڈ تیار نہیں کیا جا سکا: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "بند کریں"

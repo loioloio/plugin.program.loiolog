@@ -1,0 +1,693 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-05-10 23:22+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "Filter log berdasarkan addon"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "Aktifkan pembersihan data sensitif"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "Tampilkan entri terbaru terlebih dahulu"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "Log yang difilter ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "Log yang difilter (entri terbaru)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "Penampil Log"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "Log Kodi lengkap"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "Hanya Error dan Warning"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "Log internal ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "Cari di log"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "Ekspor log ke file"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "Informasi log"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "Hapus log internal"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "Log Kodi lama"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "Alihkan pencatatan debug"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "Statistik log"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "Bandingkan log vs log lama"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "Informasi sistem"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "Salin jalur log"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "Lihat log addon"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "Hapus log Kodi"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "File log Kodi tidak ditemukan."
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "Tidak ada kesalahan terbaru yang ditemukan di log."
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "Berapa baris?"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50 baris"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100 baris"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200 baris"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "Cari di log Kodi"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "'{0}' tidak ditemukan di log."
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "{0} hasil untuk '{1}'"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "Mode tampilan"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "Hanya {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "Hanya kesalahan"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "Tidak ada entri untuk ditampilkan."
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "Detail Log"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "Tidak dapat mendekode entri."
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "File log internal tidak ada."
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "Berapa baris untuk dilihat?"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "Log Internal"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "Log Kodi"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "Ukuran: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "Ukuran: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "Baris: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "Jalur: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "Tidak ditemukan"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "Log Internal dari {0}"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "Tidak ada"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "Informasi Log"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "Entri {0} saja"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "Log lengkap"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "Hanya kesalahan dan peringatan"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "Apa yang akan diekspor?"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "Tidak ada entri untuk diekspor."
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "Simpan log yang diekspor"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "Log diekspor oleh {0} -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "Tipe: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "Baris: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "Diekspor"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "Log disimpan ke:\n{0}\n\n{1} baris diekspor."
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "Tidak dapat mengekspor:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "Hapus log internal?\n\nUkuran: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "Log internal dihapus"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "File log Kodi lama tidak ditemukan (kodi.old.log)."
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "Log Kodi Lama"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "Pencatatan debug sekarang DIAKTIFKAN.\nKodi akan merekam lebih banyak detail."
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "Pencatatan debug sekarang DEAKTIFKAN."
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "Debug: AKTIF"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "Debug: NONAKTIF"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "Statistik Log"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "Total baris: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "Kesalahan: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "Peringatan: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "Debug: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "Info: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "Addon yang paling banyak disebut"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "Kedua log diperlukan untuk perbandingan."
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "Perbandingan Log"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "Kesalahan baru (tidak ada di log lama)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "Tidak ada kesalahan baru yang ditemukan."
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "Informasi Sistem"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "Jalur disalin ke papan klip"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "Tidak dapat menyalin jalur."
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "Pilih addon untuk difilter"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "Filter diatur ke: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "Hapus file log Kodi?"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "Log dihapus"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "Tidak dapat menghapus:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "Menampilkan entri log Kodi terbaru"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " menyebutkan {0}."
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "Token dan data sensitif secara otomatis disensor."
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "Menampilkan setiap baris log sebagai item visual.\nKode warna berdasarkan tingkat keparahan:\n\n[COLOR red]X Kesalahan[/COLOR]\n[COLOR yellow]! Peringatan[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "Menampilkan log Kodi lengkap."
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "Memfilter log untuk baris kesalahan, peringatan, pengecualian, dan lacak balik."
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "Menampilkan isi log addon internal."
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "Ketik teks untuk mencari log Kodi lengkap.\nMenampilkan semua baris yang cocok."
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "Menyimpan log yang difilter, lengkap, atau hanya kesalahan ke file TXT.\nBerguna untuk dibagikan atau dikirim ke dukungan."
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "Menampilkan ukuran file, jumlah baris, dan jalur log Kodi."
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "Menghapus file log addon internal."
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "Lihat log Kodi lama (kodi.old.log) dari sesi sebelumnya."
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "Mengaktifkan atau menonaktifkan pencatatan debug Kodi."
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "Jumlah kesalahan, peringatan, dan penyebutan addon."
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "Bandingkan kesalahan antara log saat ini dan log lama."
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "Suku Kodi, platform, resolusi layar, dan versi Python."
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "Salin jalur file kodi.log ke papan klip."
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "Pilih addon yang terinstal dan segera lihat entri lognya."
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "Hapus file kodi.log dan/atau kodi.old.log."
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "Perangkat Keras"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "Terinstal: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "Kesalahan"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "Log Kodi sangat besar ({0:.1f} MB).\nIni dapat memperlambat Kodi. Pertimbangkan untuk menghapusnya."
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "Pencarian regex di log"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "Masukkan pola regex"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "Pola regex tidak valid:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "Cari dengan ekspresi reguler di log Kodi."
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "Ekspor log ke JSON"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "Simpan log JSON"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON diekspor"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON disimpan ke:\n{0}\n\n{1} entri diekspor."
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "Ekspor log dalam format JSON terstruktur dengan tingkat keparahan dan stempel waktu."
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "Log Acara Kodi"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "Lihat acara Kodi terbaru (notifikasi, kesalahan, peringatan)."
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "Tidak ada acara untuk ditampilkan."
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "API LoioLog"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "Perintah RunScript yang tersedia untuk addon lain."
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "Unggah log ke situs paste"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "Mengunggah log..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "Log berhasil diunggah!\n\nURL:\n{0}\n\nURL telah disalin ke papan klip."
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "Pengunggahan gagal:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "Unggah log Kodi ke situs paste dan dapatkan URL yang dapat dibagikan."
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "Apa yang akan diunggah?"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "Log saat ini (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "Log lama (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "Log Diunggah"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "Penampil log layar penuh"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "Lihat log di jendela layar penuh dengan gulir."
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "Jalur Kodi"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "Tampilkan jalur direktori Kodi dan salin ke papan klip."
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "Lihat log"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "Cari"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "Analisis"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "Ekspor"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "Alat"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "Zona bahaya"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "Lihat log di jaringan"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "Buka URL ini di ponsel Anda atau perangkat apa pun di jaringan yang sama:\n\n{0}\n\nURL telah disalin ke papan klip.\nTutup dialog ini untuk menghentikan server."
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "Mulai server web lokal untuk melihat log Kodi dari ponsel Anda atau perangkat lain di jaringan yang sama."
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "Port {0} sudah digunakan. Coba lagi nanti."
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "Urutan: terlama dahulu"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "Urutan: terbaru dahulu"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "Beralih antara menampilkan entri log terbaru atau terlama terlebih dahulu."
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "Masalah umum terdeteksi"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "Database terkunci: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "Batas waktu koneksi habis: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "Dependensi hilang: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "Kegagalan pemutaran: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "Tampilkan kode QR"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "Pindai dengan ponsel Anda untuk membuka log"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "Tekan Kembali untuk menutup"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "Tidak dapat membuat kode QR: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "Tutup"

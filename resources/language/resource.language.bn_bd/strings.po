@@ -1,0 +1,693 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-06-08 21:05+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Bengali\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "অ্যাডঅন দ্বারা লগ ফিল্টার করুন"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "সংবেদনশীল তথ্য স্যানিটাইজেশন সক্রিয় করুন"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "প্রথমে নতুন এন্ট্রি দেখান"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "ফিল্টার করা লগ ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "ফিল্টার করা লগ (সাম্প্রতিক এন্ট্রি)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "লগ ভিউয়ার"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "সম্পূর্ণ কোডি লগ"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "শুধুমাত্র ত্রুটি এবং সতর্কতা"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "অভ্যন্তরীণ লগ ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "লগে অনুসন্ধান করুন"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "ফাইলে লগ রপ্তানি করুন"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "লগ তথ্য"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "অভ্যন্তরীণ লগ মুছুন"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "পুরানো কোডি লগ"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "ডিবাগ লগিং चालू/বন্ধ করুন"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "লগ পরিসংখ্যান"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "বর্তমান বনাম পুরানো লগের তুলনা করুন"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "সিস্টেম তথ্য"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "লগ পাথ কপি করুন"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "অ্যাডঅন লগ দেখুন"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "কোডি লগ মুছুন"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "কোডি লগ ফাইল পাওয়া যায়নি।"
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "লগে কোনো সাম্প্রতিক ত্রুটি পাওয়া যায়নি।"
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "কত লাইন?"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "৫০ লাইন"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "১০০ লাইন"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "২০০ লাইন"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "কোডি লগে অনুসন্ধান করুন"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "লগে '{0}' পাওয়া যায়নি।"
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "'{1}' এর জন্য {0}টি ফলাফল"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "ভিউ মোড"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "শুধুমাত্র {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "শুধুমাত্র ত্রুটি"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "দেখানোর জন্য কোনো এন্ট্রি নেই।"
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "লগ বিস্তারিত"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "এন্ট্রি ডিকোড করা যায়নি।"
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "অভ্যন্তরীণ লগ ফাইল নেই।"
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "কত লাইন দেখতে চান?"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "অভ্যন্তরীণ লগ"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "কোডি লগ"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "আকার: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "আকার: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "লাইন: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "পাথ: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "পাওয়া যায়নি"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "{0}-এর অভ্যন্তরীণ লগ"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "অস্তিত্ব নেই"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "লগ তথ্য"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "শুধুমাত্র {0}-এর এন্ট্রি"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "সম্পূর্ণ লগ"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "শুধুমাত্র ত্রুটি এবং সতর্কতা"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "কি রপ্তানি করবেন?"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "রপ্তানি করার মতো কোনো এন্ট্রি নেই।"
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "রপ্তানি করা লগ সংরক্ষণ করুন"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "{0} দ্বারা লগ রপ্তানি করা হয়েছে -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "ধরণ: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "লাইন: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "রপ্তানি করা হয়েছে"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "লগ সংরক্ষণ করা হয়েছে:\n{0}\n\n{1} লাইন রপ্তানি করা হয়েছে।"
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "রপ্তানি করা যায়নি:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "অভ্যন্তরীণ লগ মুছবেন?\n\nআকার: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "অভ্যন্তরীণ লগ মুছে ফেলা হয়েছে"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "পুরানো কোডি লগ ফাইল পাওয়া যায়নি (kodi.old.log)।"
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "পুরানো কোডি লগ"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "ডিবাগ লগিং এখন সক্রিয়।\nকোডি আরও বিস্তারিত রেকর্ড করবে।"
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "ডিবাগ লগিং এখন নিষ্ক্রিয়।"
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "ডিবাগ: চালু"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "ডিবাগ: বন্ধ"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "লগ পরিসংখ্যান"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "মোট লাইন: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "ত্রুটি: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "সতর্কতা: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "ডিবাগ: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "তথ্য: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "উল্লিখিত শীর্ষ অ্যাডঅনসমূহ"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "তুলনার জন্য উভয় লগ প্রয়োজন।"
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "লগ তুলনা"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "নতুন ত্রুটি (পুরানো লগে নেই)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "কোনো নতুন ত্রুটি পাওয়া যায়নি।"
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "সistem তথ্য"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "পাথ ক্লিপবোর্ডে কপি করা হয়েছে"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "পাথ কপি করা যায়নি।"
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "ফিল্টার করতে অ্যাডঅন নির্বাচন করুন"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "ফিল্টার সেট করা হয়েছে: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "কোডি লগ ফাইল মুছবেন?"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "লগ মুছে ফেলা হয়েছে"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "মোছা যায়নি:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "সাম্প্রতিক কোডি লগ এন্ট্রি দেখায়"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " {0} উল্লেখ করে।"
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "সংবেদনশীল টোকেন এবং ডেটা স্বয়ংক্রিয়ভাবে মুছে ফেলা হয়।"
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "প্রতিটি লগ লাইন একটি ভিজ্যুয়াল আইটেম হিসাবে দেখায়।\nতীব্রতা অনুসারে রঙিন কোডেড:\n\n[COLOR red]X ত্রুটি[/COLOR]\n[COLOR yellow]! সতর্কতা[/COLOR]\n[COLOR white]- তথ্য[/COLOR]\n[COLOR grey]- ডিবাগ[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "সম্পূর্ণ কোডি লগ দেখায়।"
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "ত্রুটি, সতর্কতা, ব্যতিক্রম এবং ট্রেসব্যাক লাইনের জন্য লগ ফিল্টার করে।"
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "অভ্যন্তরীণ অ্যাডঅন লগের বিষয়বস্তু দেখায়।"
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "সম্পূর্ণ কোডি লগে অনুসন্ধান করতে পাঠ্য লিখুন।\nসব মিলতি লাইন দেখায়।"
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "ফিল্টার করা, সম্পূর্ণ বা ত্রুটি-অনন্য লগ একটি TXT ফাইলে সংরক্ষণ করুন।\nশেয়ার করার জন্য বা সমর্থনে পাঠানোর জন্য দরকারী।"
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "কোডি লগের ফাইলের আকার, লাইন সংখ্যা এবং পাথ দেখায়।"
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "অভ্যন্তরীণ অ্যাডঅন লগ ফাইল মুছে দেয়।"
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "পূর্ববর্তী সেশনের পুরানো কোডি লগ (kodi.old.log) দেখুন।"
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "কোডি ডিবাগ লগিং সক্ষম বা নিষ্ক্রিয় করুন।"
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "ত্রুটি, সতর্কতা এবং অ্যাডঅন উল্লেখের संख्या।"
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "বর্তমান এবং পুরানো লগের মধ্যে ত্রুটি তুলনা করুন।"
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "কোডি সংস্করণ, প্ল্যাটফর্ম, স্ক্রিন রেজোলিউশন এবং পাইথন সংস্করণ।"
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "kodi.log ফাইল পাথ ক্লিপবোর্ডে কপি করুন।"
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "একটি ইনস্টল করা অ্যাডঅন নির্বাচন করুন এবং অবিলম্বে এর লগ এন্ট্রি দেখুন।"
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "kodi.log এবং/অথবা kodi.old.log ফাইল মুছুন।"
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "হার্ডওয়্যার"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "ইনস্টল করা: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "ত্রুটি"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "কোডি লগটি খুব বড় ({0:.1f} MB)।\nএটি কোডিকে ধীর করে দিতে পারে। এটি মুছে ফেলার কথা বিবেচনা করুন।"
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "লগে রেজেক্স অনুসন্ধান"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "রেজেক্স প্যাটার্ন লিখুন"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "অবৈধ রেগেক্স প্যাটার্ন:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "কোডি লগে নিয়মিত অভিব্যক্তি দিয়ে অনুসন্ধান করুন।"
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "JSON-এ লগ রপ্তানি করুন"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "JSON লগ সংরক্ষণ করুন"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON রপ্তানি করা হয়েছে"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON এখানে সংরক্ষণ করা হয়েছে:\n{0}\n\n{1}টি এন্ট্রি রপ্তানি করা হয়েছে।"
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "তীব্রতা এবং টাইমস্ট্যাম্প সহ কাঠামোগত JSON ফর্ম্যাটে লগ রপ্তানি করুন।"
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "কোডি ইভেন্ট লগ"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "সাম্প্রতিক কোডি ইভেন্ট (বিজ্ঞপ্তি, ত্রুটি, সতর্কতা) দেখুন।"
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "দেখানোর জন্য কোনো ইভেন্ট নেই।"
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "LoioLog API"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "অন্যান্য অ্যাডঅনের জন্য উপলব্ধ RunScript কমান্ড।"
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "পেস্ট সাইটে লগ আপলোড করুন"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "লগ আপলোড করা হচ্ছে..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "লগ সফলভাবে আপলোড করা হয়েছে!\n\nURL:\n{0}\n\nURL ক্লিপবোর্ডে কপি করা হয়েছে।"
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "আপলোড ব্যর্থ হয়েছে:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "পেস্ট সাইটে কোডি লগ আপলোড করুন এবং একটি শেয়ারযোগ্য URL পান।"
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "কি আপলোড করবেন?"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "বর্তমান লগ (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "পুরানো লগ (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "লগ আপলোড করা হয়েছে"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "ফুল স্ক্রীন লগ ভিউয়ার"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "스크롤 সহ ফুল-স্ক্রিন উইন্ডোতে লগ দেখুন।"
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "কোডি পাথ"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "কোডি ডিরেক্টরি পাথ দেখান এবং ক্লিপবোর্ডে কপি করুন।"
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "লগ দেখুন"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "খুঁজুন"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "বিশ্লেষণ"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "রপ্তানি"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "সরঞ্জাম"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "বিপদ অঞ্চল"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "নেটওয়ার্কে লগ দেখুন"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "আপনার ফোন বা একই নেটওয়ার্কের যেকোনো ডিভাইসে এই URLটি খুলুন:\n\n{0}\n\nURL ক্লিপবোর্ডে কপি করা হয়েছে।\nসার্ভার বন্ধ করতে এই ডায়ালগটি বন্ধ করুন।"
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "আপনার ফোন বা একই নেটওয়ার্কের অন্য কোনো ডিভাইস থেকে কোডি লগ দেখতে একটি স্থানীয় ওয়েব সার্ভার শুরু করুন।"
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "পোর্ট {0} ইতিমধ্যে ব্যবহার করা হচ্ছে। পরে আবার চেষ্টা করুন।"
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "ক্রম: প্রাচীনতম আগে"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "ক্রম: নতুন আগে"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "সবচেয়ে নতুন নাকি প্রাচীনতম লগ এন্ট্রি আগে দেখানো হবে তা টগল করুন।"
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "পরিচিত সমস্যা সনাক্ত করা হয়েছে"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "ডাটাবেস লক করা হয়েছে: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "সংযোগের সময়সীমা শেষ: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "অনুপস্থিত নির্ভরতাসমূহ: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "প্লেব্যাক ব্যর্থতা: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "QR কোড দেখান"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "লগ খুলতে আপনার ফোন দিয়ে স্ক্যান করুন"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "বন্ধ করতে ব্যাক বোতাম চাপুন"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "QR কোড তৈরি করা যায়নি: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "বন্ধ করুন"

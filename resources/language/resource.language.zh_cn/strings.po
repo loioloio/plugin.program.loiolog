@@ -1,0 +1,693 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-06-03 19:26+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Chinese\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "按插件过滤日志"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "启用敏感数据脱敏"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "最新的条目排在最前"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "过滤后的日志 ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "过滤后的日志 (最近的条目)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "日志查看器"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "完整的 Kodi 日志"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "仅限错误和警告"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "内部日志 ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "在日志中搜索"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "导出日志到文件"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "日志信息"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "删除内部日志"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "旧的 Kodi 日志"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "切换调试日志记录"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "日志 统计"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "比较当前日志与旧日志"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "系统信息"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "复制日志路径"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "查看插件日志"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "删除 Kodi 日志"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "未找到 Kodi 日志文件。"
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "日志中未找到最近的错误。"
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "多少行？"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50 行"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100 行"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200 行"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "在 Kodi 日志中搜索"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "在日志中未找到 '{0}'。"
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "找到 {0} 个关于 '{1}' 的结果"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "视图模式"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "仅显示 {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "仅显示错误"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "没有可显示的条目。"
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "日志详情"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "无法解码该条目。"
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "内部日志文件不存在。"
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "要查看多少行？"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "内部日志"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "Kodi 日志"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "大小: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "大小: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "行数: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "路径: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "未找到"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "{0} 的内部日志"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "不存在"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "日志信息"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "仅显示 {0} 的条目"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "完整日志"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "仅限错误和警告"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "要导出什么？"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "没有要导出的条目。"
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "保存导出的日志"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "日志由 {0} 导出 -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "类型: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "行数: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "已导出"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "日志已保存至:\n{0}\n\n已导出 {1} 行。"
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "无法导出:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "是否删除内部日志？\n\n大小: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "内部日志已删除"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "未找到旧的 Kodi 日志文件 (kodi.old.log)。"
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "旧的 Kodi 日志"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "调试日志记录现已启用。\nKodi 将记录更多详细信息。"
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "调试日志记录现已禁用。"
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "调试: 开启"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "调试: 关闭"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "日志统计"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "总行数: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "错误数: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "警告数: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "调试数: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "信息数: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "被提及最多的插件"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "比较需要两个日志。"
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "日志比较"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "新错误 (旧日志中没有的错误)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "未找到新错误。"
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "系统信息"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "路径已复制到剪贴板"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "无法复制路径。"
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "选择要过滤的插件"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "过滤器设置为: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "是否删除 Kodi 日志文件？"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "日志已删除"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "无法删除:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "显示最近的 Kodi 日志条目"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " 提及 {0}。"
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "敏感令牌和数据将自动脱敏。"
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "将每一行日志显示为一个可视项目。\n按严重程度进行颜色编码:\n\n[COLOR red]X 错误[/COLOR]\n[COLOR yellow]! 警告[/COLOR]\n[COLOR white]- 信息[/COLOR]\n[COLOR grey]- 调试[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "显示完整的 Kodi 日志。"
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "过滤日志中的错误、警告、异常和堆栈追踪行。"
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "显示内部插件日志内容。"
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "输入文本以搜索完整的 Kodi 日志。\n显示所有匹配的行。"
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "将过滤后的、完整的或仅含错误的日志保存为 TXT 文件。\n对于共享或发送给支持人员很有用。"
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "显示 Kodi 日志的文件大小、行数和路径。"
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "删除内部插件日志文件。"
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "查看上一会话的旧 Kodi 日志 (kodi.old.log)。"
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "启用或禁用 Kodi 调试日志记录。"
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "错误、警告和插件提及次数。"
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "比较当前日志与旧日志之间的错误。"
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "Kodi 版本、平台、屏幕分辨率和 Python 版本。"
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "将 kodi.log 文件路径复制到剪贴板。"
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "选择已安装的插件并立即查看其日志条目。"
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "删除 kodi.log 和/或 kodi.old.log 文件。"
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "硬件"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "已安装: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "错误"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "Kodi 日志非常大 ({0:.1f} MB)。\n这可能会降低 Kodi 的速度。请考虑将其删除。"
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "日志正则搜索"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "输入正则表达式模式"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "无效的正则表达式模式:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "使用正则表达式在 Kodi 日志中搜索。"
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "导出日志为 JSON"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "保存 JSON 日志"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON 已导出"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON 已保存至:\n{0}\n\n已导出 {1} 个条目。"
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "以包含严重程度和时间戳的结构化 JSON 格式导出日志。"
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "Kodi 事件日志"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "查看最近的 Kodi 事件 (通知、错误、警告)。"
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "没有可显示的事件。"
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "LoioLog API"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "可用于其他插件的 RunScript 命令。"
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "上传日志到文本共享网站"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "正在上传日志..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "日志上传成功！\n\nURL:\n{0}\n\n该 URL 已复制到剪贴板。"
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "上传失败:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "将 Kodi 日志上传到文本共享网站并获取可共享的 URL。"
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "要上传什么？"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "当前日志 (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "旧日志 (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "日志已上传"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "全屏日志查看器"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "在带滚动条的全屏窗口中查看日志。"
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "Kodi 路径"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "显示 Kodi 目录路径并复制到剪贴板。"
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "查看日志"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "搜索"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "分析"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "导出"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "工具"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "危险区域"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "在网络上查看日志"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "在手机或同一网络下的任何设备上打开此 URL:\n\n{0}\n\n该 URL 已复制到剪贴板。\n关闭此对话框以停止服务器。"
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "启动本地 Web 服务器，以从手机或同一网络上的其他设备查看 Kodi 日志。"
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "端口 {0} 已被占用。请稍后再试。"
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "顺序: 最旧优先"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "顺序: 最新优先"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "在首先显示最新或最旧的日志条目之间切换。"
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "检测到已知问题"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "数据库已锁定: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "连接超时: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "缺失依赖项: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "播放失败: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "显示二维码"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "用手机扫描以打开日志"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "按“返回”关闭"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "无法生成二维码: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "关闭"

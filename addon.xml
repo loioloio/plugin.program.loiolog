@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.loiolog" name="loiolog" version="2.1.0" provider-name="RubénSDFA1laberot">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Gestor avanzado de logs de Kodi</summary>
+    <summary lang="en">Advanced Kodi log manager</summary>
+    <description lang="es">Visualiza y busca en el log de Kodi con un visor de colores por severidad. Filtra por addon, texto o expresiones regulares. Exporta a TXT o JSON, comparte el log subiendo a internet o ábrelo en el móvil desde tu red local. Consulta estadísticas del log, compara errores entre sesiones y gestiona los logs anteriores.</description>
+    <description lang="en">View and search the Kodi log with a color-coded severity viewer. Filter by addon, text or regular expressions. Export to TXT or JSON, share the log by uploading online or open it on your phone via local network. Check log statistics, compare errors between sessions and manage old logs.</description>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <language>en es</language>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <news lang="en">v2.1.0
+- Expanded sanitization: masks emails, MACs and IPs in addition to tokens.
+- Statistics: detects known issues (locked DB, timeouts, dependencies, playback).
+- Share via QR code when uploading log or serving it on local network.</news>
+    <news lang="es">v2.1.0
+- Sanitizado ampliado: enmascara emails, MAC e IPs además de tokens.
+- Estadísticas: detecta problemas conocidos (BD bloqueada, timeouts, dependencias, reproducción).
+- Compartir por código QR al subir el log o servirlo en la red local.</news>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>

@@ -1,0 +1,693 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-05-28 22:44+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Vietnamese\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "Lọc log theo addon"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "Bật làm sạch dữ liệu nhạy cảm"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "Hiển thị mục mới nhất trước"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "Log đã lọc ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "Log đã lọc (các mục gần đây)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "Trình xem log"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "Log Kodi đầy đủ"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "Chỉ Lỗi và Cảnh báo"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "Log nội bộ ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "Tìm kiếm trong log"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "Xuất log ra file"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "Thông tin log"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "Xóa log nội bộ"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "Log Kodi cũ"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "Bật/tắt log debug"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "Thống kê log"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "So sánh log hiện tại và cũ"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "Thông tin hệ thống"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "Sao chép đường dẫn log"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "Xem log addon"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "Xóa log Kodi"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "Không tìm thấy file log Kodi."
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "Không tìm thấy lỗi gần đây trong log."
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "Bao nhiêu dòng?"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50 dòng"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100 dòng"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200 dòng"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "Tìm kiếm trong log Kodi"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "Không tìm thấy '{0}' trong log."
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "{0} kết quả cho '{1}'"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "Chế độ xem"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "Chỉ {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "Chỉ lỗi"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "Không có mục nào để hiển thị."
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "Chi tiết log"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "Không thể giải mã mục này."
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "File log nội bộ không tồn tại."
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "Xem bao nhiêu dòng?"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "Log nội bộ"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "Log Kodi"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "Dung lượng: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "Dung lượng: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "Số dòng: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "Đường dẫn: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "Log nội bộ của {0}"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "Không tồn tại"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "Thông tin log"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "Chỉ các mục của {0}"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "Log đầy đủ"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "Chỉ lỗi và cảnh báo"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "Xuất những gì?"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "Không có mục nào để xuất."
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "Lưu log đã xuất"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "Log được xuất bởi {0} -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "Loại: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "Số dòng: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "Đã xuất"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "Log được lưu vào:\n{0}\n\nĐã xuất {1} dòng."
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "Không thể xuất:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "Xóa log nội bộ?\n\nDung lượng: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "Đã xóa log nội bộ"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "Không tìm thấy file log Kodi cũ (kodi.old.log)."
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "Log Kodi cũ"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "Ghi log debug hiện ĐÃ BẬT.\nKodi sẽ ghi lại nhiều chi tiết hơn."
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "Ghi log debug hiện ĐÃ TẮT."
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "Debug: BẬT"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "Debug: TẮT"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "Thống kê log"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "Tổng số dòng: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "Lỗi: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "Cảnh báo: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "Debug: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "Thông tin: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "Các addon được nhắc đến nhiều nhất"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "Cần cả hai log để so sánh."
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "So sánh log"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "Lỗi mới (không có trong log cũ)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "Không tìm thấy lỗi mới."
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "Thông tin hệ thống"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "Đường dẫn đã được sao chép vào bộ nhớ tạm"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "Không thể sao chép đường dẫn."
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "Chọn addon để lọc"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "Lọc được đặt thành: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "Xóa các file log Kodi?"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "Đã xóa các log"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "Không thể xóa:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "Hiển thị các mục log Kodi gần đây"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " nhắc đến {0}."
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "Các token và dữ liệu nhạy cảm tự động bị ẩn."
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "Hiển thị mỗi dòng log như một mục trực quan.\nMã màu theo mức độ nghiêm trọng:\n\n[COLOR red]X Lỗi[/COLOR]\n[COLOR yellow]! Cảnh báo[/COLOR]\n[COLOR white]- Thông tin[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "Hiển thị log Kodi đầy đủ."
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "Lọc log cho các dòng lỗi, cảnh báo, ngoại lệ và traceback."
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "Hiển thị nội dung log addon nội bộ."
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "Nhập văn bản để tìm kiếm trong toàn bộ log Kodi.\nHiển thị tất cả các dòng khớp."
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "Lưu log đã lọc, đầy đủ hoặc chỉ lỗi vào file TXT.\nHữu ích để chia sẻ hoặc gửi cho bộ phận hỗ trợ."
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "Hiển thị dung lượng file, số dòng và đường dẫn của log Kodi."
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "Xóa file log addon nội bộ."
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "Xem log Kodi cũ (kodi.old.log) từ phiên làm việc trước."
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "Bật hoặc tắt ghi log debug của Kodi."
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "Số lượng lỗi, cảnh báo và số lần nhắc đến addon."
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "So sánh lỗi giữa log hiện tại và cũ."
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "Phiên bản Kodi, nền tảng, độ phân giải màn hình và phiên bản Python."
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "Sao chép đường dẫn file kodi.log vào bộ nhớ tạm."
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "Chọn một addon đã cài đặt và xem ngay các mục log của nó."
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "Xóa các file kodi.log và/hoặc kodi.old.log."
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "Phần cứng"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "Đã cài đặt: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "Lỗi"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "Log Kodi rất lớn ({0:.1f} MB).\nĐiều này có thể làm chậm Kodi. Hãy cân nhắc xóa nó."
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "Tìm kiếm Regex trong log"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "Nhập mẫu regex"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "Mẫu regex không hợp lệ:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "Tìm kiếm bằng biểu thức chính quy trong log Kodi."
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "Xuất log ra JSON"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "Lưu log JSON"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "Đã xuất JSON"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON được lưu vào:\n{0}\n\nĐã xuất {1} mục."
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "Xuất log ở định dạng JSON có cấu trúc với mức độ nghiêm trọng và nhãn thời gian."
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "Log sự kiện Kodi"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "Xem các sự kiện Kodi gần đây (thông báo, lỗi, cảnh báo)."
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "Không có sự kiện nào để hiển thị."
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "LoioLog API"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "Các lệnh RunScript có sẵn cho các addon khác."
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "Tải log lên trang chia sẻ văn bản"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "Đang tải log lên..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "Tải log lên thành công!\n\nURL:\n{0}\n\nĐường dẫn đã được sao chép vào bộ nhớ tạm."
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "Tải lên thất bại:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "Tải log Kodi lên một trang chia sẻ văn bản và nhận đường dẫn có thể chia sẻ."
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "Tải lên những gì?"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "Log hiện tại (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "Log cũ (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "Log đã được tải lên"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "Trình xem log toàn màn hình"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "Xem log trong cửa sổ toàn màn hình có thể cuộn."
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "Các đường dẫn Kodi"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "Hiển thị các đường dẫn thư mục Kodi và sao chép vào bộ nhớ tạm."
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "Xem log"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "Phân tích"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "Xuất"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "Công cụ"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "Vùng nguy hiểm"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "Xem log trên mạng nội bộ"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "Mở đường dẫn này trên điện thoại hoặc bất kỳ thiết bị nào trong cùng mạng:\n\n{0}\n\nĐường dẫn đã được sao chép vào bộ nhớ tạm.\nĐóng hộp thoại này để dừng máy chủ."
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "Khởi động máy chủ web nội bộ để xem log Kodi từ điện thoại của bạn hoặc thiết bị khác trong cùng mạng."
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "Cổng {0} đã được sử dụng. Vui lòng thử lại sau."
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "Thứ tự: cũ nhất trước"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "Thứ tự: mới nhất trước"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "Chuyển đổi giữa hiển thị mục log mới nhất hoặc cũ nhất trước."
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "Đã phát hiện các sự cố đã biết"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "Cơ sở dữ liệu bị khóa: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "Hết thời gian kết nối: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "Thiếu các gói phụ thuộc: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "Lỗi phát lại: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "Hiển thị mã QR"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "Quét bằng điện thoại để mở log"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "Nhấn Trở lại để đóng"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "Không thể tạo mã QR: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "Đóng"

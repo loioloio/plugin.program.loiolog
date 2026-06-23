@@ -1,0 +1,693 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-04-21 22:17+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "Günlüğü eklentiye göre filtrele"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "Hassas veri temizlemeyi etkinleştir"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "Önce en yeni kayıtları göster"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "Filtrelenmiş günlük ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "Filtrelenmiş günlük (son kayıtlar)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "Günlük Görüntüleyici"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "Tam Kodi günlüğü"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "Yalnızca Hatalar ve Uyarılar"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "Dahili günlük ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "Günlükte ara"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "Günlüğü dosyaya aktar"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "Günlük bilgileri"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "Dahili günlüğü sil"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "Eski Kodi günlüğü"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "Hata ayıklama günlüğünü aç/kapat"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "Günlük istatistikleri"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "Günlüğü eski günlükle karşılaştır"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "Sistem bilgileri"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "Günlük yolunu kopyala"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "Eklenti günlüğünü görüntüle"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "Kodi günlüklerini sil"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "Kodi günlük dosyası bulunamadı."
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "Günlükte yakın zamanda hata bulunamadı."
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "Kaç satır?"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50 satır"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100 satır"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200 satır"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "Kodi günlüğünde ara"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "Günlükte '{0}' bulunamadı."
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "'{1}' için {0} sonuç"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "Görünüm modu"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "Yalnızca {0}"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "Yalnızca hatalar"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "Gösterilecek kayıt yok."
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "Günlük Detayı"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "Kayıt kodu çözülemedi."
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "Dahili günlük dosyası mevcut değil."
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "Kaç satır görüntülensin?"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "Dahili Günlük"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "Kodi Günlüğü"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "Boyut: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "Boyut: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "Satır: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "Yol: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "Bulunamadı"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "{0} Dahili Günlüğü"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "Mevcut değil"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "Günlük Bilgileri"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "Yalnızca {0} kayıtları"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "Tam günlük"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "Yalnızca hatalar ve uyarılar"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "Ne aktarılsın?"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "Aktarılacak kayıt yok."
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "Aktarılan günlüğü kaydet"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "Günlük {0} tarafından aktarıldı -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "Tür: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "Satır: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "Aktarıldı"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "Günlük şuraya kaydedildi:\n{0}\n\n{1} satır aktarıldı."
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "Aktarılamadı:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "Dahili günlük silinsin mi?\n\nBoyut: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "Dahili günlük silindi"
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "Eski Kodi günlük dosyası bulunamadı (kodi.old.log)."
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "Eski Kodi Günlüğü"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "Hata ayıklama günlüğü ETKİNLEŞTİRİLDİ.\nKodi daha fazla ayrıntı kaydedecek."
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "Hata ayıklama günlüğü DEVRE DIŞI BIRAKILDI."
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "Hata Ayıklama: AÇIK"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "Hata Ayıklama: KAPALI"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "Günlük İstatistikleri"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "Toplam satır: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "Hata: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "Uyarı: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "Hata Ayıklama: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "Bilgi: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "En çok adı geçen eklentiler"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "Karşılaştırma için her iki günlük de gereklidir."
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "Günlük Karşılaştırması"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "Yeni hatalar (eski günlükte olmayan)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "Yeni hata bulunamadı."
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "Sistem bilgileri"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "Yol panoya kopyalandı"
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "Yol kopyalanamadı."
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "Filtrelenecek eklentiyi seçin"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "Filtre şuna ayarlandı: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "Kodi günlük dosyaları silinsin mi?"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "Günlükler silindi"
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "Silinemedi:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "Son Kodi günlüğü kayıtlarını gösterir"
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " {0} ifadesini içeren."
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "Hassas belirteçler ve veriler otomatik olarak sansürlenir."
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "Her günlük satırını görsel bir öğe olarak gösterir.\nÖnem derecesine göre renk kodlu:\n\n[COLOR red]X Hata[/COLOR]\n[COLOR yellow]! Uyarı[/COLOR]\n[COLOR white]- Bilgi[/COLOR]\n[COLOR grey]- Hata Ayıklama[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "Tam Kodi günlüğünü gösterir."
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "Günlüğü hata, uyarı, istisna ve izleme satırları için filtreler."
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "Dahili eklenti günlüğü içeriğini gösterir."
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "Kodi günlüğünün tamamında aramak için bir metin yazın.\nTüm eşleşen satırları gösterir."
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "Filtrelenmiş, tam veya yalnızca hata içeren günlüğü bir TXT dosyasına kaydeder.\nPaylaşmak veya desteğe göndermek için kullanışlıdır."
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "Kodi günlüğünün dosya boyutunu, satır sayısını ve yolunu gösterir."
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "Dahili eklenti günlük dosyasını siler."
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "Önceki oturumun eski Kodi günlüğünü (kodi.old.log) görüntüler."
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "Kodi hata ayıklama günlüğünü etkinleştirir veya devre dışı bırakır."
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "Hata, uyarı ve eklenti adı geçme sayıları."
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "Mevcut ve eski günlük arasındaki hataları karşılaştırır."
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "Kodi sürümü, platform, ekran çözünürlüğü ve Python sürümü."
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "kodi.log dosya yolunu panoya kopyalar."
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "Kurulu bir eklentiyi seçin ve günlük kayıtlarını hemen görüntüleyin."
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "kodi.log ve/veya kodi.old.log dosyalarını siler."
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "Donanım"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "Kurulu: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "Hata"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "Kodi günlüğü çok büyük ({0:.1f} MB).\nBu durum Kodi'yi yavaşlatabilir. Silmeyi düşünebilirsiniz."
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "Günlükte Regex araması"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "Regex deseni girin"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "Geçersiz regex deseni:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "Kodi günlüğünde düzenli ifadelerle arama yapın."
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "Günlüğü JSON olarak aktar"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "JSON günlüğünü kaydet"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON aktarıldı"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON şuraya kaydedildi:\n{0}\n\n{1} kayıt aktarıldı."
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "Günlüğü önem derecesi ve zaman damgasıyla yapılandırılmış JSON biçiminde aktarır."
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "Kodi Etkinlik Günlüğü"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "Son Kodi etkinliklerini (bildirimler, hatalar, uyarılar) görüntüler."
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "Gösterilecek etkinlik yok."
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "LoioLog API"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "Diğer eklentiler için mevcut RunScript komutları."
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "Günlüğü paste sitesine yükle"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "Günlük yükleniyor..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "Günlük başarıyla yüklendi!\n\nURL:\n{0}\n\nURL panoya kopyalandı."
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "Yükleme başarısız oldu:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "Kodi günlüğünü bir paste sitesine yükler ve paylaşılabilir bir URL alır."
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "Ne yüklensin?"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "Mevcut günlük (kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "Eski günlük (kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "Günlük Yüklendi"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "Tam ekran günlük görüntüleyici"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "Günlüğü kaydırma özellikli tam ekran bir pencerede görüntüler."
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "Kodi yolları"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "Kodi dizin yollarını gösterir ve panoya kopyalar."
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "Günlüğü görüntüle"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "Ara"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "Analiz"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "Aktar"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "Araçlar"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "Tehlikeli bölge"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "Günlüğü ağda görüntüle"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "Bu URL'yi telefonunuzda veya aynı ağdaki herhangi bir cihazda açın:\n\n{0}\n\nURL panoya kopyalandı.\nSunucuyu durdurmak için bu iletişim kutusunu kapatın."
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "Telefonunuzdan veya aynı ağdaki başka bir cihazdan Kodi günlüğünü görüntülemek için yerel bir web sunucusu başlatır."
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "Port {0} zaten kullanımda. Daha sonra tekrar deneyin."
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "Sıralama: önce en eski"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "Sıralama: önce en yeni"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "Önce en yeni veya en eski günlük kayıtlarının gösterilmesi arasında geçiş yapar."
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "Bilinen sorunlar tespit edildi"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "Veritabanı kilitlendi: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "Bağlantı zaman aşımı: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "Eksik bağımlılıklar: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "Oynatma hataları: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "QR kodunu göster"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "Günlüğü açmak için telefonunuzla tarayın"
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "Kapatmak için Geri tuşuna basın"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "QR kodu oluşturulamadı: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "Kapat"

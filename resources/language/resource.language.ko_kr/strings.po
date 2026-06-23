@@ -1,0 +1,693 @@
+# Kodi Media Center language file
+# Addon Name: LoioLog
+# Addon id: plugin.program.loiolog
+# Addon Provider: RubénSDFA1laberot
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.program.loiolog\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2026-05-22 20:31+0200
+"Last-Translator: RubénSDFA1laberot\n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# --- Settings ---
+msgctxt "#32001"
+msgid "Filter log by addon"
+msgstr "애드온별 로그 필터링"
+
+msgctxt "#32002"
+msgid "Enable sensitive data sanitization"
+msgstr "민감한 데이터 필터링(삭제) 활성화"
+
+msgctxt "#32003"
+msgid "Show newest entries first"
+msgstr "최신 항목 먼저 표시"
+
+# --- Menu items ---
+msgctxt "#32010"
+msgid "Filtered log ({0})"
+msgstr "필터링된 로그 ({0})"
+
+msgctxt "#32011"
+msgid "Filtered log (recent entries)"
+msgstr "필터링된 로그 (최신 항목)"
+
+msgctxt "#32012"
+msgid "Log Viewer"
+msgstr "로그 뷰어"
+
+msgctxt "#32013"
+msgid "Full Kodi log"
+msgstr "전체 Kodi 로그"
+
+msgctxt "#32014"
+msgid "Errors and Warnings only"
+msgstr "오류 및 경고만"
+
+msgctxt "#32015"
+msgid "Internal log ({0:.0f} KB)"
+msgstr "내부 로그 ({0:.0f} KB)"
+
+msgctxt "#32016"
+msgid "Search in log"
+msgstr "로그에서 검색"
+
+msgctxt "#32017"
+msgid "Export log to file"
+msgstr "로그를 파일로 내보내기"
+
+msgctxt "#32018"
+msgid "Log information"
+msgstr "로그 정보"
+
+msgctxt "#32019"
+msgid "Delete internal log"
+msgstr "내부 로그 삭제"
+
+msgctxt "#32020"
+msgid "Old Kodi log"
+msgstr "이전 Kodi 로그"
+
+msgctxt "#32021"
+msgid "Toggle debug logging"
+msgstr "디버그 로깅 토글"
+
+msgctxt "#32022"
+msgid "Log statistics"
+msgstr "로그 통계"
+
+msgctxt "#32023"
+msgid "Compare log vs old log"
+msgstr "현재 로그와 이전 로그 비교"
+
+msgctxt "#32024"
+msgid "System information"
+msgstr "시스템 정보"
+
+msgctxt "#32025"
+msgid "Copy log path"
+msgstr "로그 경로 복사"
+
+msgctxt "#32026"
+msgid "View addon log"
+msgstr "애드온 로그 보기"
+
+msgctxt "#32027"
+msgid "Delete Kodi logs"
+msgstr "Kodi 로그 삭제"
+
+# --- Dialogs and messages ---
+msgctxt "#32100"
+msgid "Kodi log file not found."
+msgstr "Kodi 로그 파일을 찾을 수 없습니다."
+
+msgctxt "#32101"
+msgid "No recent errors found in log."
+msgstr "로그에서 최근 오류를 찾을 수 없습니다."
+
+msgctxt "#32102"
+msgid "How many lines?"
+msgstr "몇 줄을 표시할까요?"
+
+msgctxt "#32103"
+msgid "50 lines"
+msgstr "50줄"
+
+msgctxt "#32104"
+msgid "100 lines"
+msgstr "100줄"
+
+msgctxt "#32105"
+msgid "200 lines"
+msgstr "200줄"
+
+msgctxt "#32106"
+msgid "Search in Kodi log"
+msgstr "Kodi 로그에서 검색"
+
+msgctxt "#32107"
+msgid "'{0}' not found in log."
+msgstr "로그에서 '{0}'을(를) 찾을 수 없습니다."
+
+msgctxt "#32108"
+msgid "{0} results for '{1}'"
+msgstr "'{1}'에 대한 {0}개의 결과"
+
+msgctxt "#32109"
+msgid "View mode"
+msgstr "보기 모드"
+
+msgctxt "#32110"
+msgid "Only {0}"
+msgstr "{0}만 표시"
+
+msgctxt "#32111"
+msgid "Only errors"
+msgstr "오류만 표시"
+
+msgctxt "#32112"
+msgid "No entries to show."
+msgstr "표시할 항목이 없습니다."
+
+msgctxt "#32113"
+msgid "Log Detail"
+msgstr "로그 세부 정보"
+
+msgctxt "#32114"
+msgid "Could not decode entry."
+msgstr "항목을 디코딩할 수 없습니다."
+
+msgctxt "#32115"
+msgid "Internal log file does not exist."
+msgstr "내부 로그 파일이 없습니다."
+
+msgctxt "#32116"
+msgid "How many lines to view?"
+msgstr "볼 줄 수 선택:"
+
+msgctxt "#32117"
+msgid "Internal Log"
+msgstr "내부 로그"
+
+# --- Log info ---
+msgctxt "#32120"
+msgid "Kodi Log"
+msgstr "Kodi 로그"
+
+msgctxt "#32121"
+msgid "Size: {0:.1f} MB"
+msgstr "크기: {0:.1f} MB"
+
+msgctxt "#32122"
+msgid "Size: {0:.1f} KB"
+msgstr "크기: {0:.1f} KB"
+
+msgctxt "#32123"
+msgid "Lines: {0:,}"
+msgstr "줄 수: {0:,}"
+
+msgctxt "#32124"
+msgid "Path: {0}"
+msgstr "경로: {0}"
+
+msgctxt "#32125"
+msgid "Not found"
+msgstr "찾을 수 없음"
+
+msgctxt "#32126"
+msgid "Internal Log of {0}"
+msgstr "{0}의 내부 로그"
+
+msgctxt "#32127"
+msgid "Does not exist"
+msgstr "존재하지 않음"
+
+msgctxt "#32128"
+msgid "Log Information"
+msgstr "로그 정보"
+
+# --- Export ---
+msgctxt "#32130"
+msgid "Entries of {0} only"
+msgstr "{0} 항목만 표시"
+
+msgctxt "#32131"
+msgid "Full log"
+msgstr "전체 로그"
+
+msgctxt "#32132"
+msgid "Errors and warnings only"
+msgstr "오류 및 경고만"
+
+msgctxt "#32133"
+msgid "What to export?"
+msgstr "무엇을 내보내시겠습니까?"
+
+msgctxt "#32134"
+msgid "No entries to export."
+msgstr "내보낼 항목이 없습니다."
+
+msgctxt "#32135"
+msgid "Save exported log"
+msgstr "내보낸 로그 저장"
+
+msgctxt "#32136"
+msgid "Log exported by {0} -- {1}"
+msgstr "{0}에 의해 내보내진 로그 -- {1}"
+
+msgctxt "#32137"
+msgid "Type: {0}"
+msgstr "유형: {0}"
+
+msgctxt "#32138"
+msgid "Lines: {0}"
+msgstr "줄 수: {0}"
+
+msgctxt "#32139"
+msgid "Exported"
+msgstr "내보내기 완료"
+
+msgctxt "#32140"
+msgid "Log saved to:\n{0}\n\n{1} lines exported."
+msgstr "로그가 다음 위치에 저장되었습니다:\n{0}\n\n{1}줄을 내보냈습니다."
+
+msgctxt "#32141"
+msgid "Could not export:\n{0}"
+msgstr "내보낼 수 없습니다:\n{0}"
+
+# --- Delete internal log ---
+msgctxt "#32145"
+msgid "Delete internal log?\n\nSize: {0:.1f} KB"
+msgstr "내부 로그를 삭제하시겠습니까?\n\n크기: {0:.1f} KB"
+
+msgctxt "#32146"
+msgid "Internal log deleted"
+msgstr "내부 로그가 삭제되었습니다."
+
+# --- Old log ---
+msgctxt "#32150"
+msgid "Old Kodi log file not found (kodi.old.log)."
+msgstr "이전 Kodi 로그 파일(kodi.old.log)을 찾을 수 없습니다."
+
+msgctxt "#32151"
+msgid "Old Kodi Log"
+msgstr "이전 Kodi 로그"
+
+# --- Debug toggle ---
+msgctxt "#32155"
+msgid "Debug logging is now ENABLED.\nKodi will record more details."
+msgstr "디버그 로깅이 활성화되었습니다.\nKodi가 더 상세한 정보를 기록합니다."
+
+msgctxt "#32156"
+msgid "Debug logging is now DISABLED."
+msgstr "디버그 로깅이 비활성화되었습니다."
+
+msgctxt "#32157"
+msgid "Debug: ON"
+msgstr "디버그: 켜짐"
+
+msgctxt "#32158"
+msgid "Debug: OFF"
+msgstr "디버그: 꺼짐"
+
+# --- Stats ---
+msgctxt "#32160"
+msgid "Log Statistics"
+msgstr "로그 통계"
+
+msgctxt "#32161"
+msgid "Total lines: {0:,}"
+msgstr "전체 줄 수: {0:,}"
+
+msgctxt "#32162"
+msgid "Errors: {0:,}"
+msgstr "오류: {0:,}"
+
+msgctxt "#32163"
+msgid "Warnings: {0:,}"
+msgstr "경고: {0:,}"
+
+msgctxt "#32164"
+msgid "Debug: {0:,}"
+msgstr "디버그: {0:,}"
+
+msgctxt "#32165"
+msgid "Info: {0:,}"
+msgstr "정보: {0:,}"
+
+msgctxt "#32166"
+msgid "Top addons mentioned"
+msgstr "가장 많이 언급된 애드온"
+
+# --- Diff ---
+msgctxt "#32170"
+msgid "Both logs needed for comparison."
+msgstr "비교하려면 두 로그가 모두 필요합니다."
+
+msgctxt "#32171"
+msgid "Log Comparison"
+msgstr "로그 비교"
+
+msgctxt "#32172"
+msgid "New errors (not in old log)"
+msgstr "새로운 오류(이전 로그에 없음)"
+
+msgctxt "#32173"
+msgid "No new errors found."
+msgstr "새로운 오류를 찾을 수 없습니다."
+
+# --- System info ---
+msgctxt "#32180"
+msgid "System Information"
+msgstr "시스템 정보"
+
+# --- Copy path ---
+msgctxt "#32185"
+msgid "Path copied to clipboard"
+msgstr "경로가 클립보드에 복사되었습니다."
+
+msgctxt "#32186"
+msgid "Could not copy path."
+msgstr "경로를 복사할 수 없습니다."
+
+# --- Addon picker ---
+msgctxt "#32190"
+msgid "Select addon to filter"
+msgstr "필터링할 애드온 선택"
+
+msgctxt "#32191"
+msgid "Filter set to: {0}"
+msgstr "필터 설정: {0}"
+
+# --- Delete Kodi logs ---
+msgctxt "#32195"
+msgid "Delete Kodi log files?"
+msgstr "Kodi 로그 파일을 삭제하시겠습니까?"
+
+msgctxt "#32196"
+msgid "kodi.log"
+msgstr "kodi.log"
+
+msgctxt "#32197"
+msgid "kodi.old.log"
+msgstr "kodi.old.log"
+
+msgctxt "#32198"
+msgid "Logs deleted"
+msgstr "로그가 삭제되었습니다."
+
+msgctxt "#32199"
+msgid "Could not delete:\n{0}"
+msgstr "삭제할 수 없습니다:\n{0}"
+
+# --- Menu plots ---
+msgctxt "#32200"
+msgid "Shows recent Kodi log entries"
+msgstr "최근 Kodi 로그 항목을 보여줍니다."
+
+msgctxt "#32201"
+msgid " mentioning {0}."
+msgstr " {0}을(를) 포함합니다."
+
+msgctxt "#32202"
+msgid "Sensitive tokens and data are automatically redacted."
+msgstr "민감한 토큰 및 데이터는 자동으로 제거됩니다."
+
+msgctxt "#32203"
+msgid "Shows each log line as a visual item.\nColor-coded by severity:\n\n[COLOR red]X Error[/COLOR]\n[COLOR yellow]! Warning[/COLOR]\n[COLOR white]- Info[/COLOR]\n[COLOR grey]- Debug[/COLOR]"
+msgstr "각 로그 줄을 시각적인 항목으로 보여줍니다.\n심각도에 따른 색상 구분:\n\n[COLOR red]X 오류[/COLOR]\n[COLOR yellow]! 경고[/COLOR]\n[COLOR white]- 정보[/COLOR]\n[COLOR grey]- 디버그[/COLOR]"
+
+msgctxt "#32204"
+msgid "Shows the complete Kodi log."
+msgstr "전체 Kodi 로그를 보여줍니다."
+
+msgctxt "#32205"
+msgid "Filters the log for error, warning, exception and traceback lines."
+msgstr "오류, 경고, 예외 및 트레이스백 줄에 대해 로그를 필터링합니다."
+
+msgctxt "#32206"
+msgid "Shows the internal addon log contents."
+msgstr "내부 애드온 로그 내용을 보여줍니다."
+
+msgctxt "#32207"
+msgid "Type a text to search the full Kodi log.\nShows all matching lines."
+msgstr "전체 Kodi 로그를 검색할 텍스트를 입력하십시오.\n일치하는 모든 줄을 보여줍니다."
+
+msgctxt "#32208"
+msgid "Save the filtered, complete or error-only log to a TXT file.\nUseful for sharing or sending to support."
+msgstr "필터링되거나 전체 또는 오류 전용 로그를 TXT 파일로 저장합니다.\n공유하거나 지원 팀에 보낼 때 유용합니다."
+
+msgctxt "#32209"
+msgid "Shows file size, line count and path of the Kodi log."
+msgstr "Kodi 로그의 파일 크기, 줄 수 및 경로를 보여줍니다."
+
+msgctxt "#32210"
+msgid "Deletes the internal addon log file."
+msgstr "내부 애드온 로그 파일을 삭제합니다."
+
+msgctxt "#32211"
+msgid "View the old Kodi log (kodi.old.log) from the previous session."
+msgstr "이전 세션의 이전 Kodi 로그(kodi.old.log)를 보여줍니다."
+
+msgctxt "#32212"
+msgid "Enable or disable Kodi debug logging."
+msgstr "Kodi 디버그 로깅을 활성화하거나 비활성화합니다."
+
+msgctxt "#32213"
+msgid "Error, warning and addon mention counts."
+msgstr "오류, 경고 및 애드온 언급 횟수입니다."
+
+msgctxt "#32214"
+msgid "Compare errors between current and old log."
+msgstr "현재 로그와 이전 로그의 오류를 비교합니다."
+
+msgctxt "#32215"
+msgid "Kodi version, platform, screen resolution and Python version."
+msgstr "Kodi 버전, 플랫폼, 화면 해상도 및 Python 버전입니다."
+
+msgctxt "#32216"
+msgid "Copy the kodi.log file path to clipboard."
+msgstr "kodi.log 파일 경로를 클립보드에 복사합니다."
+
+msgctxt "#32217"
+msgid "Select an installed addon and immediately view its log entries."
+msgstr "설치된 애드온을 선택하고 로그 항목을 즉시 봅니다."
+
+msgctxt "#32218"
+msgid "Delete kodi.log and/or kodi.old.log files."
+msgstr "kodi.log 및/또는 kodi.old.log 파일을 삭제합니다."
+
+# --- System info labels ---
+msgctxt "#32220"
+msgid "Hardware"
+msgstr "하드웨어"
+
+msgctxt "#32221"
+msgid "Installed: {0}"
+msgstr "설치됨: {0}"
+
+msgctxt "#32222"
+msgid "Error"
+msgstr "오류"
+
+# --- Log size warning ---
+msgctxt "#32230"
+msgid "The Kodi log is very large ({0:.1f} MB).\nThis may slow down Kodi. Consider deleting it."
+msgstr "Kodi 로그 크기가 매우 큽니다({0:.1f} MB).\n이로 인해 Kodi가 느려질 수 있습니다. 삭제하는 것을 고려해 보십시오."
+
+# --- Regex search ---
+msgctxt "#32235"
+msgid "Regex search in log"
+msgstr "로그에서 정규식 검색"
+
+msgctxt "#32236"
+msgid "Enter regex pattern"
+msgstr "정규식 패턴 입력"
+
+msgctxt "#32237"
+msgid "Invalid regex pattern:\n{0}"
+msgstr "잘못된 정규식 패턴:\n{0}"
+
+msgctxt "#32238"
+msgid "Search with regular expressions in the Kodi log."
+msgstr "Kodi 로그에서 정규 표현식으로 검색합니다."
+
+# --- JSON export ---
+msgctxt "#32240"
+msgid "Export log to JSON"
+msgstr "로그를 JSON으로 내보내기"
+
+msgctxt "#32241"
+msgid "Save JSON log"
+msgstr "JSON 로그 저장"
+
+msgctxt "#32242"
+msgid "JSON exported"
+msgstr "JSON 내보내기 완료"
+
+msgctxt "#32243"
+msgid "JSON saved to:\n{0}\n\n{1} entries exported."
+msgstr "JSON이 다음 위치에 저장되었습니다:\n{0}\n\n{1}개의 항목을 내보냈습니다."
+
+msgctxt "#32244"
+msgid "Export log in structured JSON format with severity and timestamp."
+msgstr "심각도 및 타임스탬프와 함께 정적 JSON 형식으로 로그를 내보냅니다."
+
+# --- Event log ---
+msgctxt "#32250"
+msgid "Kodi Event Log"
+msgstr "Kodi 이벤트 로그"
+
+msgctxt "#32251"
+msgid "View recent Kodi events (notifications, errors, warnings)."
+msgstr "최근 Kodi 이벤트(알림, 오류, 경고)를 봅니다."
+
+msgctxt "#32252"
+msgid "No events to show."
+msgstr "표시할 이벤트가 없습니다."
+
+# --- RunScript API ---
+msgctxt "#32260"
+msgid "LoioLog API"
+msgstr "LoioLog API"
+
+msgctxt "#32261"
+msgid "Available RunScript commands for other addons."
+msgstr "다른 애드온에서 사용할 수 있는 RunScript 명령입니다."
+
+# --- Paste upload ---
+msgctxt "#32270"
+msgid "Upload log to paste site"
+msgstr "붙여넣기(Paste) 사이트에 로그 업로드"
+
+msgctxt "#32271"
+msgid "Uploading log..."
+msgstr "로그 업로드 중..."
+
+msgctxt "#32272"
+msgid "Log uploaded successfully!\n\nURL:\n{0}\n\nThe URL has been copied to clipboard."
+msgstr "로그가 성공적으로 업로드되었습니다!\n\nURL:\n{0}\n\nURL이 클립보드에 복사되었습니다."
+
+msgctxt "#32273"
+msgid "Upload failed:\n{0}"
+msgstr "업로드 실패:\n{0}"
+
+msgctxt "#32274"
+msgid "Upload the Kodi log to a paste site and get a shareable URL."
+msgstr "Kodi 로그를 붙여넣기 사이트에 업로드하고 공유 가능한 URL을 가져옵니다."
+
+msgctxt "#32275"
+msgid "What to upload?"
+msgstr "업로드할 항목은 무엇입니까?"
+
+msgctxt "#32276"
+msgid "Current log (kodi.log)"
+msgstr "현재 로그(kodi.log)"
+
+msgctxt "#32277"
+msgid "Old log (kodi.old.log)"
+msgstr "이전 로그(kodi.old.log)"
+
+msgctxt "#32278"
+msgid "Log Uploaded"
+msgstr "로그 업로드 완료"
+
+# --- Fullscreen viewer ---
+msgctxt "#32280"
+msgid "Full screen log viewer"
+msgstr "전체 화면 로그 뷰어"
+
+msgctxt "#32281"
+msgid "View the log in a full-screen window with scroll."
+msgstr "스크롤이 있는 전체 화면 창에서 로그를 봅니다."
+
+# --- Kodi paths ---
+msgctxt "#32290"
+msgid "Kodi paths"
+msgstr "Kodi 경로"
+
+msgctxt "#32291"
+msgid "Show Kodi directory paths and copy to clipboard."
+msgstr "Kodi 디렉터리 경로를 보여주고 클립보드에 복사합니다."
+
+# --- Menu section headers ---
+msgctxt "#32300"
+msgid "View log"
+msgstr "로그 보기"
+
+msgctxt "#32301"
+msgid "Search"
+msgstr "검색"
+
+msgctxt "#32302"
+msgid "Analysis"
+msgstr "분석"
+
+msgctxt "#32303"
+msgid "Export"
+msgstr "내보내기"
+
+msgctxt "#32304"
+msgid "Tools"
+msgstr "도구"
+
+msgctxt "#32305"
+msgid "Danger zone"
+msgstr "위험 구역"
+
+# --- Network log viewer ---
+msgctxt "#32310"
+msgid "View log on network"
+msgstr "네트워크에서 로그 보기"
+
+msgctxt "#32311"
+msgid "Open this URL on your phone or any device on the same network:\n\n{0}\n\nThe URL has been copied to clipboard.\nClose this dialog to stop the server."
+msgstr "동일한 네트워크의 휴대폰이나 다른 기기에서 이 URL을 여십시오:\n\n{0}\n\nURL이 클립보드에 복사되었습니다.\n서버를 중지하려면 이 대화 상자를 닫으십시오."
+
+msgctxt "#32312"
+msgid "Start a local web server to view the Kodi log from your phone or another device on the same network."
+msgstr "휴대폰이나 동일한 네트워크의 다른 기기에서 Kodi 로그를 보기 위한 로컬 웹 서버를 시작합니다."
+
+msgctxt "#32313"
+msgid "Port {0} is already in use. Try again later."
+msgstr "{0} 포트가 이미 사용 중입니다. 나중에 다시 시도하십시오."
+
+# --- Reverse order toggle ---
+msgctxt "#32314"
+msgid "Order: oldest first"
+msgstr "정렬: 오래된 항목 먼저"
+
+msgctxt "#32315"
+msgid "Order: newest first"
+msgstr "정렬: 최신 항목 먼저"
+
+msgctxt "#32316"
+msgid "Toggle between showing newest or oldest log entries first."
+msgstr "로그 항목을 최신순 또는 오래된 순으로 표시할지 토글합니다."
+
+# --- Known issues in stats ---
+msgctxt "#32320"
+msgid "Known issues detected"
+msgstr "알려진 문제 감지됨"
+
+msgctxt "#32321"
+msgid "Database locked: {0:,}"
+msgstr "데이터베이스 잠김: {0:,}"
+
+msgctxt "#32322"
+msgid "Connection timeouts: {0:,}"
+msgstr "연결 시간 초과: {0:,}"
+
+msgctxt "#32323"
+msgid "Missing dependencies: {0:,}"
+msgstr "누락된 종속성: {0:,}"
+
+msgctxt "#32324"
+msgid "Playback failures: {0:,}"
+msgstr "재생 실패: {0:,}"
+
+# --- QR code sharing ---
+msgctxt "#32325"
+msgid "Show QR code"
+msgstr "QR 코드 표시"
+
+msgctxt "#32326"
+msgid "Scan with your phone to open the log"
+msgstr "휴대폰으로 스캔하여 로그를 엽니다."
+
+msgctxt "#32327"
+msgid "Press Back to close"
+msgstr "뒤로 단추를 눌러 닫기"
+
+msgctxt "#32328"
+msgid "Could not generate the QR code: {0}"
+msgstr "QR 코드를 생성할 수 없습니다: {0}"
+
+msgctxt "#32329"
+msgid "Close"
+msgstr "닫기"
